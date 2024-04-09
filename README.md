@@ -1,7 +1,7 @@
 # highway-simulator
-Simulator game that emphasizes the ”Keep right, pass left.” concept that's vital when driving on the highway. This program was written in python.
+Simulator game that emphasizes the ”Keep right, pass left” concept that's vital when driving on the highway. This program was written in python.
 
-# Run a program
+# How to run
 Run script from the root directory of the project:
 ```bash
 python racing.py
